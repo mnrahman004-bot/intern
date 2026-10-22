@@ -1,0 +1,4 @@
+project_id = "wwngjnktrygjcsmbdgbg"
+
+[functions.demand-prediction]
+verify_jwt = false
